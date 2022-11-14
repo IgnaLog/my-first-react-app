@@ -1,4 +1,4 @@
-# My first React App
+# My First React App
 
 This application is the first of the set of tutorials made with React.
 
